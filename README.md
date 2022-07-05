@@ -1,2 +1,2 @@
 # NTUCSIE-2021-Machine_Learning
-Course Assignments of Machine Learning at NTUCSIE
+Course assignments of Machine Learning from professor 林軒田 at NTUCSIE
